@@ -5,7 +5,17 @@
       "ProjectGuid": "45ff6af4-8178-4299-8138-e2a13b27fdc4",
       "DisplayName": "QuanLyQuanTraSua",
       "ColorIndex": 0
+    },
+    "c0e316fe-ffc3-4cb7-8a27-61b1918e8d56": {
+      "ProjectGuid": "c0e316fe-ffc3-4cb7-8a27-61b1918e8d56",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "3daf78d2-42b7-4006-9d25-409dbe568bf5": {
+      "ProjectGuid": "3daf78d2-42b7-4006-9d25-409dbe568bf5",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
