@@ -1,0 +1,10 @@
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\bin\Debug\Guna.UI2.dll
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\BusinessLogic\obj\Debug\BusinessLogic.pdb

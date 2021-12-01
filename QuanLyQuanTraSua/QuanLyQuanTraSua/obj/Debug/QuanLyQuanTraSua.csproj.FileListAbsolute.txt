@@ -1,0 +1,17 @@
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\BusinessLogic.dll
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\DataAccess.dll
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\Guna.UI2.dll
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\BusinessLogic.pdb
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\DataAccess.pdb
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Form1.resources
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CopyComplete
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+C:\Users\Kin\Desktop\DoAnCoSo\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
